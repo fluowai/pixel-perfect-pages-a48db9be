@@ -52,7 +52,7 @@ export const Route = createFileRoute("/")({
 });
 
 const whatsappLink =
-  "https://wa.me/5548991138937?text=Ol%C3%A1%2C%20quero%20crescer%20meu%20Home%20Care";
+  "https://wa.me/5547992701014?text=Ol%C3%A1%2C%20quero%20crescer%20meu%20Home%20Care";
 
 function Brand({ light = false }: { light?: boolean }) {
   return (
@@ -279,7 +279,7 @@ function Footer() {
           </div>
           <div><h3>Soluções</h3><ul><li>Marketing para Home Care</li><li>Gestão de Leads e CRM</li><li>Google Meu Negócio</li><li>Tráfego Pago</li><li>Conteúdo e Redes Sociais</li><li>Consultoria Estratégica</li></ul></div>
           <div><h3>Institucional</h3><ul><li>Sobre a CareScale</li><li>Blog</li><li>Depoimentos</li><li>Política de Privacidade</li><li>Termos de Uso</li><li>Contato</li></ul></div>
-          <div><h3>Contato</h3><ul className="contact-list"><li><MessageCircle /> (48) 99113–8937</li><li><Mail /> contato@carescale.com.br</li><li><MapPin /> São José/SC</li><li>Atendimento em todo o Brasil</li></ul></div>
+          <div><h3>Contato</h3><ul className="contact-list"><li><MessageCircle /> (47) 9927-01014</li><li><Mail /> contato@carescale.com.br</li><li><MapPin /> Balneário Camboriú/SC</li><li><MapPin /> Brasília/DF</li><li>Atendimento em todo o Brasil</li></ul></div>
         </div>
         <div className="footer-bottom"><span>© 2026 CareScale. Todos os direitos reservados.</span><span><i /> Tecnologia que impulsiona o cuidado.</span></div>
       </div>
