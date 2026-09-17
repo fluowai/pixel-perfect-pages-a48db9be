@@ -147,7 +147,7 @@ function Hero() {
       <div className="page-shell hero-grid">
         <div className="hero-copy">
           <p className="eyebrow">MAIS PACIENTES. MAIS RESULTADOS.</p>
-          <h1>Marketing e<br />crescimento para<br /><span>Home Care</span></h1>
+          <h1>Marketing e crescimento para <span>Home Care</span></h1>
           <p className="hero-lead">
             Estratégias inteligentes para atrair mais pacientes, aumentar sua autoridade e transformar seu Home Care em uma máquina de crescimento.
           </p>
@@ -203,7 +203,7 @@ function Solutions() {
       <div className="page-shell solutions-grid">
         <div className="solutions-copy">
           <p className="eyebrow">SOLUÇÕES COMPLETAS</p>
-          <h2>Tudo o que seu Home Care<br />precisa <span>para crescer</span></h2>
+          <h2>Tudo o que seu Home Care precisa <span>para crescer</span></h2>
           <p className="section-lead">Unimos marketing, tecnologia e estratégia para atrair pacientes, gerar oportunidades e aumentar seus resultados.</p>
           <div className="service-grid">
             {services.map(({ icon: Icon, label }) => (
